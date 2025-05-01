@@ -8,6 +8,7 @@ import Checkout from './components/Checkout.jsx';
 import Navbar from './components/Navbar.jsx';
 import Footer from './components/Footer.jsx';
 import {Link} from 'react-router-dom';
+import './App.css';
 
 function App() {
   return (
